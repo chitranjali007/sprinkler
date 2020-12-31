@@ -1,0 +1,10 @@
+README.md
+setup.py
+file_ops_lib/__init__.py
+file_ops_lib/save_filestorage.py
+file_ops_lib.egg-info/PKG-INFO
+file_ops_lib.egg-info/SOURCES.txt
+file_ops_lib.egg-info/dependency_links.txt
+file_ops_lib.egg-info/requires.txt
+file_ops_lib.egg-info/top_level.txt
+test/test_save_filestorage.py
